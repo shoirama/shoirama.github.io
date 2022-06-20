@@ -1,0 +1,37 @@
+body {
+    background-color: #EEE8AA;
+}
+#flex {
+    display: flex;
+    padding: 10px;
+}
+#back {
+    display: flex;
+    background-color: #FFFF00;
+}
+nav {
+    background-color: #FFD700;
+}
+main {
+    background-color: #ADFF2F;
+}
+h1 {
+    color: #7B68EE;
+    text-align: center;
+}
+h2 {
+    color: #7B68EE;
+    padding: 10px;
+}
+p {
+    color: #7B68EE;
+    text-align: justify;
+    padding: 10px;
+}
+img {
+    padding: 10px;
+}
+h3 {
+    color: #7B68EE;
+    text-align: center;
+}
